@@ -1,2 +1,0 @@
-#include is used for including header files.
-Header files provides declaration of functions, classes, etc. for our code.
